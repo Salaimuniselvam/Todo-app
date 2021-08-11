@@ -1,3 +1,1 @@
 # Todo-app
-
-# author:salaimuniselvam
